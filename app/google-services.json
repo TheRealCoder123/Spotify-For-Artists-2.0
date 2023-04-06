@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "328819569569",
+    "project_id": "spotify-4a582",
+    "storage_bucket": "spotify-4a582.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328819569569:android:3b2fcb34663b887c9d91e0",
+        "android_client_info": {
+          "package_name": "com.nextup.spotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328819569569-6ogl11mbg44ujf1mg48793rbrft1avb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh9YQE6aBvtMIWE6B1cDXJwp7uA1v3GVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328819569569-6ogl11mbg44ujf1mg48793rbrft1avb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328819569569:android:4da04390eb6937429d91e0",
+        "android_client_info": {
+          "package_name": "com.nextup.spotifyforartists_20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328819569569-6ogl11mbg44ujf1mg48793rbrft1avb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh9YQE6aBvtMIWE6B1cDXJwp7uA1v3GVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328819569569-6ogl11mbg44ujf1mg48793rbrft1avb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
