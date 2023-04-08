@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    
+    
+    <color name="WindowBackgroundColor">#2C2D31</color>
+    <color name="green_color_button">#1ED760</color>
+    <color name="toast_color">#C41D1D1D</color>
+
+
 </resources>
